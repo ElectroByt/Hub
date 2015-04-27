@@ -1,0 +1,163 @@
+Manifest-Version: 1.2
+Created-By: 1.6.0_22 (Sun Microsystems Inc.)
+Main-Class: net.minecraft.MinecraftLauncher
+
+Name: net/minecraft/dirt.png
+SHA1-Digest: 9SuO1HIzfA6kQ3j4F4jq/lg5w6o=
+
+Name: net/minecraft/Launcher$2.class
+SHA1-Digest: 1glQh4MHHfoewWQvHZJGACDr9jE=
+
+Name: LZMA/CRangeDecoder.class
+SHA1-Digest: f8p2nI7/tS5qxkLvFQac0QTiwgE=
+
+Name: net/minecraft/TexturedPanel.class
+SHA1-Digest: MYdXjSfeTEKKIMPTpay3TN2zcFM=
+
+Name: net/minecraft/Launcher$1.class
+SHA1-Digest: vK2911+cfTMtkvsp87pIPmkhyeE=
+
+Name: net/minecraft/LoginForm$3.class
+SHA1-Digest: bKC92yzY/AoTxFSslMFuvmorQ/I=
+
+Name: net/minecraft/LoginForm$5.class
+SHA1-Digest: OxqJ5/1ylQQWYhBr8h7vEnc0MUQ=
+
+Name: net/minecraft/LauncherFrame$1$1.class
+SHA1-Digest: YbzneoZRPbjELDJY/cwWi3lXWiI=
+
+Name: net/minecraft/LoginForm.class
+SHA1-Digest: 1ZXxDoRqrVb+m94366domfY3bb0=
+
+Name: net/minecraft/LauncherFrame.class
+SHA1-Digest: vw/90MsEjJU63kgTdE5CdxfbSP4=
+
+Name: net/minecraft/LoginForm$11.class
+SHA1-Digest: i1DWAVY6V2dqm+UKOtdlX9WhQJY=
+
+Name: net/minecraft/LoginForm$10.class
+SHA1-Digest: dBsS8qdGHw43t/1SJ7u8fsLnLsI=
+
+Name: net/minecraft/GameUpdater$2.class
+SHA1-Digest: bt78odTNUHff0GTBMAzJ1ADzRzk=
+
+Name: net/minecraft/TransparentLabel.class
+SHA1-Digest: +hTgvu33cGiV6Je3+3h6DPsOFm0=
+
+Name: net/minecraft/TransparentPanel.class
+SHA1-Digest: Y56cxw1tnjsVt5ikh4aBIT728wY=
+
+Name: LZMA/.svn/text-base/LzmaInputStream.class.svn-base
+SHA1-Digest: ySYG0OU+ANZ8eyCl9B5gPlgxIas=
+
+Name: LZMA/.svn/prop-base/LzmaInputStream.class.svn-base
+SHA1-Digest: oChJQ/jd/mnO7JCDPmbZa99Kl/A=
+
+Name: LZMA/LzmaException.class
+SHA1-Digest: bpkMhLjITTAYEz2c5uZb46fHJKU=
+
+Name: LZMA/.svn/entries
+SHA1-Digest: x52M5iDU6cwNHFrdUWSf0ttuVAE=
+
+Name: net/minecraft/GameUpdater$1.class
+SHA1-Digest: tQgRrDkb08G82VAdCyLKJ7u9kTo=
+
+Name: net/minecraft/OptionsPanel$2.class
+SHA1-Digest: W+nnj8sDezkUno/FdYBAuKS2gy8=
+
+Name: LZMA/.svn/text-base/LzmaException.class.svn-base
+SHA1-Digest: bpkMhLjITTAYEz2c5uZb46fHJKU=
+
+Name: net/minecraft/LogoPanel.class
+SHA1-Digest: TcLFr+G3Ngf8ckQ1yrbQTs9JeXE=
+
+Name: net/minecraft/OptionsPanel$1.class
+SHA1-Digest: JOgYiDng5x05LwYr7NuY5HrCzjE=
+
+Name: net/minecraft/LoginForm$9.class
+SHA1-Digest: Fb6Sh5Cxi+3XVDDoG5yf3/7QoBg=
+
+Name: net/minecraft/LoginForm$2.class
+SHA1-Digest: EByHKZ45dm3Lkywx0CzKC7+RLmw=
+
+Name: net/minecraft/logo.png
+SHA1-Digest: nXBl6nOPK6JS8nDTm49/VMrqjuw=
+
+Name: net/minecraft/OptionsPanel$3.class
+SHA1-Digest: 7zVYycxXbyeue24vW6XQiJD4nGQ=
+
+Name: net/minecraft/TransparentButton.class
+SHA1-Digest: SbK0kwmqUQ1EFXh2ftv4JDsWviU=
+
+Name: net/minecraft/GameUpdater.class
+SHA1-Digest: tnEzzpH9pjn2qYkiGgoHC6SN7Zc=
+
+Name: net/minecraft/LauncherFrame$1.class
+SHA1-Digest: ZxkL2lHdWOYQXjUhDkiwI5sFYhg=
+
+Name: net/minecraft/OptionsPanel$4.class
+SHA1-Digest: 1sg0HO/6OOiqhw3BDewoot3xgYA=
+
+Name: LZMA/.svn/text-base/CRangeDecoder.class.svn-base
+SHA1-Digest: f8p2nI7/tS5qxkLvFQac0QTiwgE=
+
+Name: net/minecraft/LoginForm$1.class
+SHA1-Digest: CZyZFV2F6FOfh/0A8evQDl1PIi4=
+
+Name: net/minecraft/LoginForm$4.class
+SHA1-Digest: B5yMxjugy4M7Kvjty9ItgIy+HJI=
+
+Name: net/minecraft/OptionsPanel.class
+SHA1-Digest: H2VEe2Iqv0RzO7XdDmNwCqv8ErA=
+
+Name: net/minecraft/TransparentCheckbox.class
+SHA1-Digest: CLCFzrgBd1MwH1YEkLCogqIxspw=
+
+Name: net/minecraft/LoginForm$7.class
+SHA1-Digest: hNwCLvsNE8fZ4nMI9nfwfjCDIOc=
+
+Name: net/minecraft/Launcher.class
+SHA1-Digest: WbVYRRMr47e7X9Gdjqjj3JMnxRc=
+
+Name: LZMA/LzmaInputStream.class
+SHA1-Digest: ySYG0OU+ANZ8eyCl9B5gPlgxIas=
+
+Name: net/minecraft/GameUpdater$4.class
+SHA1-Digest: g3Ec2t3KnRGkMmTIr+F53XmiKTA=
+
+Name: net/minecraft/minecraft.key
+SHA1-Digest: qtik8aQc0mp6HtNdPcgxywc7gVw=
+
+Name: net/minecraft/Util$OS.class
+SHA1-Digest: bxw45rax4/Y1AsRZl2oRRahGUZc=
+
+Name: net/minecraft/MinecraftLauncher.class
+SHA1-Digest: WNo6BvSg3uKu/elck/cZ/ojqHP4=
+
+Name: LZMA/.svn/prop-base/CRangeDecoder.class.svn-base
+SHA1-Digest: oChJQ/jd/mnO7JCDPmbZa99Kl/A=
+
+Name: net/minecraft/LoginForm$12.class
+SHA1-Digest: UtY2tjzDP7eXhSspbt8oCFj0CAI=
+
+Name: net/minecraft/LoginForm$6.class
+SHA1-Digest: ZhT8qaNJDNtdcf282kqnrwJc8GM=
+
+Name: net/minecraft/favicon.png
+SHA1-Digest: hGEKL1zvApYnubMueZZWUdTrsz4=
+
+Name: net/minecraft/LoginForm$8.class
+SHA1-Digest: MyplgtCoAuqlaQzLCy17AJCmvsQ=
+
+Name: net/minecraft/GameUpdater$3.class
+SHA1-Digest: TVfafHV2TYD9KbDGC8f7WVJs+TI=
+
+Name: net/minecraft/Util.class
+SHA1-Digest: NXc4PxTYPtR35pcyHpEv0kK6Oe0=
+
+Name: .svn/entries
+SHA1-Digest: Y8jmEfYcsdLjKbMvvqOoRZNPSEk=
+
+Name: LZMA/.svn/prop-base/LzmaException.class.svn-base
+SHA1-Digest: oChJQ/jd/mnO7JCDPmbZa99Kl/A=
+
